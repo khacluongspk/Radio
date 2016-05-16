@@ -1,4 +1,4 @@
-
+/*main of project*/
 #include "ILI9341.h"
 uint16_t time=0;
 
